@@ -23,6 +23,8 @@ public class MarsDetails extends AppCompatActivity {
 
        String msg = userMessage.getStringExtra("username");
 
+       // adding a comment here because
+
        tv.setText(msg);
 
     }
